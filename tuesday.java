@@ -1,3 +1,4 @@
+int i;
 class Tuesday
 {
 public static void main(String args[])
